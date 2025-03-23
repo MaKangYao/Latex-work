@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2025/Arch Linux)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Reverse Genetic.aux
+The style file: unsrt.bst
+Database file #1: reference.bib
+You've used 19 entries,
+            1791 wiz_defined-function locations,
+            587 strings with 8085 characters,
+and the built_in function-call counts, 5444 in all, are:
+= -- 453
+> -- 352
+< -- 1
++ -- 124
+- -- 105
+* -- 489
+:= -- 914
+add.period$ -- 58
+call.type$ -- 19
+change.case$ -- 19
+chr.to.int$ -- 0
+cite$ -- 19
+duplicate$ -- 182
+empty$ -- 459
+format.name$ -- 105
+if$ -- 1135
+int.to.chr$ -- 0
+int.to.str$ -- 19
+missing$ -- 19
+newline$ -- 98
+num.names$ -- 19
+pop$ -- 24
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 66
+stack$ -- 0
+substring$ -- 448
+swap$ -- 26
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 56
+width$ -- 21
+write$ -- 212

@@ -1,0 +1,122 @@
+\begin{thebibliography}{10}
+
+\bibitem{hardy2010reverse}
+Serge Hardy, Vincent Legagneux, Yann Audic, and Luc Paillard.
+\newblock Reverse genetics in eukaryotes.
+\newblock {\em Biology of the Cell}, 102(10):561--580, 2010.
+
+\bibitem{son2023regulators}
+Ye-Eun Son, Jae-Hyuk Yu, and Hee-Soo Park.
+\newblock Regulators of the asexual life cycle of aspergillus nidulans.
+\newblock {\em Cells}, 12(11):1544, 2023.
+
+\bibitem{xiaoli2015efficient}
+W~Xiaoli, J~Chuang, L~Jianhua, and L~Xipeng.
+\newblock An efficient genetic knockout system based on linear dna fragment
+  homologous recombination for halophilic archaea.
+\newblock {\em Yi Chuan= Hereditas}, 37(4):388--395, 2015.
+
+\bibitem{d1996selection}
+Christophe d'Enfert.
+\newblock Selection of multiple disruption events in aspergillus fumigatus
+  using the orotidine-5′-decarboxylase gene, pyrg, as a unique transformation
+  marker.
+\newblock {\em Current genetics}, 30:76--82, 1996.
+
+\bibitem{wassano2020aspergillus}
+Nat{\'a}lia~S Wassano, Gustavo~H Goldman, and Andr{\'e} Damasio.
+\newblock Aspergillus fumigatus.
+\newblock {\em Trends in microbiology}, 28(7):594--595, 2020.
+
+\bibitem{yee2022investigating}
+Danielle~A Yee and Yi~Tang.
+\newblock Investigating fungal biosynthetic pathways using heterologous gene
+  expression: Aspergillus nidulans as a heterologous host.
+\newblock In {\em Engineering Natural Product Biosynthesis: Methods and
+  Protocols}, pages 41--52. Springer, 2022.
+
+\bibitem{nayak2006versatile}
+Tania Nayak, Edyta Szewczyk, C~Elizabeth Oakley, Aysha Osmani, Leena Ukil,
+  Sandra~L Murray, Michael~J Hynes, Stephen~A Osmani, and Berl~R Oakley.
+\newblock A versatile and efficient gene-targeting system for aspergillus
+  nidulans.
+\newblock {\em Genetics}, 172(3):1557--1566, 2006.
+
+\bibitem{li2019pathways}
+Jinbao Li, Huize Sun, Yulin Huang, Yali Wang, Yuyan Liu, and Xuefeng Chen.
+\newblock Pathways and assays for dna double-strand break repair by homologous
+  recombination.
+\newblock {\em Acta biochimica et biophysica Sinica}, 51(9):879--889, 2019.
+
+\bibitem{corrigan2013fate}
+Mary~W Corrigan, Christine~L Kerwin-Iosue, Alexander~S Kuczmarski, Kunj~B Amin,
+  and Dennis~D Wykoff.
+\newblock The fate of linear dna in saccharomyces cerevisiae and candida
+  glabrata: the role of homologous and non-homologous end joining.
+\newblock {\em PLoS One}, 8(7):e69628, 2013.
+
+\bibitem{dittmer2011lamin}
+Travis~A Dittmer and Tom Misteli.
+\newblock The lamin protein family.
+\newblock {\em Genome biology}, 12:1--14, 2011.
+
+\bibitem{singh2000effect}
+Vinay~K Singh, R~Govindarajan, Sita Naik, and Anil Kumar.
+\newblock The effect of hairpin structure on pcr amplification efficiency.
+\newblock {\em Mol Biol Today}, 1(3):67--9, 2000.
+
+\bibitem{wortman20092008}
+Jennifer~Russo Wortman, Jane~Mabey Gilsenan, Vinita Joardar, Jennifer Deegan,
+  John Clutterbuck, Mikael~R Andersen, David Archer, Mojca Bencina, Gerhard
+  Braus, Pedro Coutinho, et~al.
+\newblock The 2008 update of the aspergillus nidulans genome annotation: a
+  community effort.
+\newblock {\em Fungal Genetics and Biology}, 46(1):S2--S13, 2009.
+
+\bibitem{paysan2023interpro}
+Typhaine Paysan-Lafosse, Matthias Blum, Sara Chuguransky, Tiago Grego,
+  Beatriz~L{\'a}zaro Pinto, Gustavo~A Salazar, Maxwell~L Bileschi, Peer Bork,
+  Alan Bridge, Lucy Colwell, et~al.
+\newblock Interpro in 2022.
+\newblock {\em Nucleic acids research}, 51(D1):D418--D427, 2023.
+
+\bibitem{ferrer2005crystal}
+Jean-Luc Ferrer, Chloe Zubieta, Richard~A Dixon, and Joseph~P Noel.
+\newblock Crystal structures of alfalfa caffeoyl coenzyme a
+  3-o-methyltransferase.
+\newblock {\em Plant physiology}, 137(3):1009--1017, 2005.
+
+\bibitem{vidgren1994crystal}
+Jukka Vidgren, L~Anders Svensson, and Anders Liljas.
+\newblock Crystal structure of catechol o-methyltransferase.
+\newblock {\em Nature}, 368(6469):354--358, 1994.
+
+\bibitem{david2008analysis}
+Helga David, {\.I}lknur~{\c{S}} {\"O}z{\c{c}}elik, Gerald Hofmann, and Jens
+  Nielsen.
+\newblock Analysis of aspergillus nidulans metabolism at the genome-scale.
+\newblock {\em BMC genomics}, 9:1--15, 2008.
+
+\bibitem{albright2015large}
+Jessica~C Albright, Matthew~T Henke, Alexandra~A Soukup, Ryan~A McClure,
+  Regan~J Thomson, Nancy~P Keller, and Neil~L Kelleher.
+\newblock Large-scale metabolomics reveals a complex response of aspergillus
+  nidulans to epigenetic perturbation.
+\newblock {\em ACS chemical biology}, 10(6):1535--1541, 2015.
+
+\bibitem{jumper2021highly}
+John Jumper, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov,
+  Olaf Ronneberger, Kathryn Tunyasuvunakool, Russ Bates, Augustin
+  {\v{Z}}{\'\i}dek, Anna Potapenko, et~al.
+\newblock Highly accurate protein structure prediction with alphafold.
+\newblock {\em Nature}, 596(7873):583--589, 2021.
+
+\bibitem{varadi2022alphafold}
+Mihaly Varadi, Stephen Anyango, Mandar Deshpande, Sreenath Nair, Cindy
+  Natassia, Galabina Yordanova, David Yuan, Oana Stroe, Gemma Wood, Agata
+  Laydon, et~al.
+\newblock Alphafold protein structure database: massively expanding the
+  structural coverage of protein-sequence space with high-accuracy models.
+\newblock {\em Nucleic acids research}, 50(D1):D439--D444, 2022.
+
+\end{thebibliography}

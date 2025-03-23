@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2025/Arch Linux)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: TPA-25 and VWA.aux
+The style file: unsrt.bst
+Database file #1: reference.bib
+Repeated entry---line 104 of file reference.bib
+ : @article{cp1992further
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 112 of file reference.bib
+ : @article{harris2017unbiased
+ :                            ,
+I'm skipping whatever remains of this entry
+You've used 18 entries,
+            1791 wiz_defined-function locations,
+            577 strings with 8126 characters,
+and the built_in function-call counts, 4913 in all, are:
+= -- 420
+> -- 281
+< -- 2
++ -- 100
+- -- 82
+* -- 416
+:= -- 811
+add.period$ -- 54
+call.type$ -- 18
+change.case$ -- 18
+chr.to.int$ -- 0
+cite$ -- 18
+duplicate$ -- 176
+empty$ -- 429
+format.name$ -- 82
+if$ -- 1042
+int.to.chr$ -- 0
+int.to.str$ -- 18
+missing$ -- 18
+newline$ -- 93
+num.names$ -- 18
+pop$ -- 22
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 76
+stack$ -- 0
+substring$ -- 413
+swap$ -- 32
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 51
+width$ -- 20
+write$ -- 200
+(There were 2 error messages)

@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2025/Arch Linux)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Enzyme kinetics.aux
+The style file: unsrt.bst
+Database file #1: reference.bib
+You've used 12 entries,
+            1791 wiz_defined-function locations,
+            528 strings with 5855 characters,
+and the built_in function-call counts, 2712 in all, are:
+= -- 242
+> -- 123
+< -- 1
++ -- 46
+- -- 34
+* -- 197
+:= -- 449
+add.period$ -- 36
+call.type$ -- 12
+change.case$ -- 11
+chr.to.int$ -- 0
+cite$ -- 12
+duplicate$ -- 115
+empty$ -- 258
+format.name$ -- 34
+if$ -- 586
+int.to.chr$ -- 0
+int.to.str$ -- 12
+missing$ -- 13
+newline$ -- 63
+num.names$ -- 12
+pop$ -- 22
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 45
+stack$ -- 0
+substring$ -- 192
+swap$ -- 19
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 30
+width$ -- 14
+write$ -- 132
